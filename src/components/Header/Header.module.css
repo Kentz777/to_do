@@ -1,0 +1,17 @@
+.header {
+    background-color: #FFD27F;
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.icon {
+    height: 40px;
+    width: 45px;
+    padding:10px;
+}
